@@ -1,0 +1,33 @@
+.feedback {
+  margin-top: 50px;
+  margin-left: 30px;
+  color: #a18484;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.message {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.btn {
+  padding: 5px 10px;
+  margin-right: 10px;
+  background-color: #a19b9b;
+  border: none;
+  border-radius: 3px;
+  color: #4e2e2e;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #4e2e2e;
+  color: #a19b9b;
+}
